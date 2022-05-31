@@ -1,2 +1,2 @@
 # Vidriería Zao
-Proyecto_Prospercity 
+Idea de Proyecto_Prospercity 
